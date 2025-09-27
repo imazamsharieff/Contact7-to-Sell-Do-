@@ -10,7 +10,6 @@ Lightweight, no extra dependencies.
 📦 Installation
 
 Download the plugin files or clone the repository:
-git clone https://github.com/your-username/cf7-selldo-integration.git
 Upload the plugin folder to /wp-content/plugins/.
 Activate CF7 Selldo Integration from the WordPress Plugins menu.
 Make sure Contact Form 7 is installed and active.
